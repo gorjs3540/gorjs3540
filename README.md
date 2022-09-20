@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=30E3CA&height=300&section=header&text=Sun_Gun&fontColor=364F6B&fontSize=80)
+
+<br />
 
 <h3 align="center">🧑🏻‍💻 Stack</h3>
 
@@ -15,4 +18,12 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorjs3540&show_icons=true&title_color=00ADB5&text_color=E3FDFD&icon_color=A6E3E9&bg_color=222831&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+<h3 align="center">🏻‍📊 Status</h3>
+
+<p align="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorjs3540&show_icons=true&title_color=00ADB5&text_color=E3FDFD&icon_color=A6E3E9&bg_color=222831&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<br />
