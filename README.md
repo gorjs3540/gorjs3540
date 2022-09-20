@@ -22,8 +22,8 @@
 
 <h3 align="center">🏻‍📊 Status</h3>
 
-<p align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorjs3540&show_icons=true&title_color=00ADB5&text_color=E3FDFD&icon_color=A6E3E9&bg_color=222831&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gorjs3540&show_icons=true&title_color=00ADB5&text_color=E3FDFD&icon_color=A6E3E9&bg_color=222831&hide_border=false">
 </p>
 
 <br />
