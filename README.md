@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30E3CA&height=300&section=header&text=Sun_Gun&fontColor=364F6B&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30E3CA&height=300&section=header&text=Sun_Gun&fontColor=E4F9F5&fontSize=80)
 
 <br />
 
